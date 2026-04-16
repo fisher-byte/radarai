@@ -2,6 +2,18 @@
 
 Public GitHub home for **RadarAI**: product links, public resource pages, historical `updates`, and weekly report archives.
 
+## What this repo is not
+
+This repository is a **public archive / public mirror / public hub**.
+
+It is **not**:
+
+- the private working repo
+- the deployment repo
+- the private backup target
+
+Private working and backup history remain separate. This public repo exists for public reading, sharing, citation, and lightweight archive access.
+
 ## Live product
 
 | Resource | Link |
@@ -25,8 +37,8 @@ These are the most useful public pages if you want to understand how RadarAI str
 
 ## Public archives in this repo
 
-- [`updates/`](updates/README.md): historical update briefs mirrored from the production archive
-- [`weekly-reports/`](weekly-reports/README.md): weekly report files copied into this public repo
+- [`updates/`](updates/README.md): historical update briefs mirrored from the latest server-synced updates source
+- [`weekly-reports/`](weekly-reports/README.md): weekly report files copied from the dedicated weekly public mirror repo
 
 ## Related public repo
 
@@ -34,11 +46,17 @@ RadarAI also keeps a dedicated weekly-report mirror here:
 
 - [fisher-byte/radarai-weekly-reports](https://github.com/fisher-byte/radarai-weekly-reports)
 
-That repo remains the focused weekly mirror. This repo is the broader public hub for product links, archives, and reusable public references.
+That repo remains the focused weekly public mirror. This repo is the broader public hub for product links, archives, and reusable public references.
 
 ## Syncing this public repo
 
-This repo is designed to live next to the main RadarAI project. After the main app data is synced from the server, run:
+This repo is designed to live next to the main RadarAI project. The intended order is:
+
+1. sync the main project from the server
+2. sync the weekly public mirror if a new weekly issue was published
+3. refresh this public archive repo
+
+After the main app data is synced from the server, run:
 
 ```bash
 python3 scripts/sync_public_content.py
@@ -46,8 +64,9 @@ python3 scripts/sync_public_content.py
 
 The script will:
 
-- export historical `updates` from `data/updates.json`
-- copy weekly report files from the local `radarai-weekly-reports/` mirror
+- prefer the latest `data/server_snapshots/.../updates.json` if available
+- fall back to local `data/updates.json` only when no server snapshot exists
+- copy weekly report files from the local `radarai-weekly-reports/` public mirror
 
 See [`docs/MIRROR_AND_SYNC.md`](docs/MIRROR_AND_SYNC.md) for the full relationship and workflow.
 
@@ -65,4 +84,10 @@ This repository supports three public goals:
 
 - 一方面承接 README、公开介绍和主站资源页入口
 - 一方面公开历史 `updates` 与 `weekly report`
-- 同时把主站与周报镜像仓串起来，方便外部引用和分享
+- 同时把主站与周报公开镜像仓串起来，方便外部引用和分享
+
+注意：
+
+- 这里的 `mirror` 指公开复制 / 公开分发入口
+- 不等于私有备份
+- 私有工作仓与备份仓仍然是分开的

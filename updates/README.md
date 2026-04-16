@@ -5,6 +5,7 @@ Public archive of RadarAI update briefs and weekly update entries mirrored from 
 - Total items: **82**
 - Brief items: **81**
 - Weekly-report entries in updates stream: **1**
+- Current source: **latest server snapshot: 20260416-1132/updates.json**
 
 ## Latest entries
 
@@ -95,7 +96,8 @@ Public archive of RadarAI update briefs and weekly update entries mirrored from 
 
 ## Notes
 
-- `briefs/` contains historical update briefs mirrored from `data/updates.json`.
+- `briefs/` contains historical update briefs mirrored from the latest server-synced updates source.
 - `weekly/` contains weekly-report entries that appear in the updates stream.
-- Full weekly Markdown mirror lives under the top-level `weekly-reports/` directory in this repo and in the dedicated mirror repo.
+- This repo is a public archive, not a private backup.
+- Full weekly Markdown mirror lives under the top-level `weekly-reports/` directory in this repo and in the dedicated weekly mirror repo.
 

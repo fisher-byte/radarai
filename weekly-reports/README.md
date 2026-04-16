@@ -1,6 +1,6 @@
 # RadarAI Weekly Reports
 
-English-first weekly reports mirrored from RadarAI. These files are copied from the dedicated weekly mirror repo so this public repo can act as a broader entry point.
+English-first weekly reports mirrored from RadarAI. These files are copied from the dedicated weekly mirror repo so this public repo can act as a broader public entry point.
 
 - Dedicated weekly mirror: https://github.com/fisher-byte/radarai-weekly-reports
 - Live EN page: https://radarai.top/en/weekly-report
@@ -14,6 +14,7 @@ English-first weekly reports mirrored from RadarAI. These files are copied from 
 
 ## Notes
 
-- This repo is a public hub and secondary mirror.
+- This repo is a public hub and secondary mirror, not a private backup target.
 - The dedicated weekly mirror repo remains: https://github.com/fisher-byte/radarai-weekly-reports
+- Private working / backup repo remains separate: https://github.com/fisher-byte/auto-firm
 
