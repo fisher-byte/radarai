@@ -1,0 +1,25 @@
+# RadarAI Public Archive
+
+> Public GitHub archive for RadarAI resources, historical updates, and weekly reports.
+
+## Main product
+- Home: https://radarai.top
+- English home: https://radarai.top/en
+- Updates: https://radarai.top/updates
+- Weekly report (EN): https://radarai.top/en/weekly-report
+- Weekly report (ZH): https://radarai.top/weekly-report
+
+## High-signal English resources
+- China AI overview: https://radarai.top/en/china-ai
+- China AI models list: https://radarai.top/en/china-ai-models-list
+- China AI updates: https://radarai.top/en/china-ai-updates
+- Which China AI models should builders track?: https://radarai.top/en/ai-answers/which-china-ai-models-should-builders-track
+- Where should builders track China AI updates in English?: https://radarai.top/en/ai-answers/where-to-track-china-ai-updates-in-english
+- What counts as a China AI update worth acting on?: https://radarai.top/en/ai-answers/what-counts-as-a-china-ai-update-worth-acting-on
+
+## Public archive in this repo
+- Historical updates index: ./updates/README.md
+- Weekly reports index: ./weekly-reports/README.md
+
+## Related public repo
+- Dedicated weekly mirror: https://github.com/fisher-byte/radarai-weekly-reports
