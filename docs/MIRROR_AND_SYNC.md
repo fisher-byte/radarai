@@ -35,9 +35,10 @@ Keep these concepts separate:
 
 Source:
 
-- latest server-synced `updates.json`
-- in practice: prefer `data/server_snapshots/<latest>/updates.json`
-- fallback: local `data/updates.json` only when no server snapshot exists
+- latest server-synced SQLite DB
+- in practice: prefer `data/server_snapshots/<latest>/radarai.db`
+- fallback: local `data/radarai.db`
+- old `data/updates.json` is now only a compatibility fallback, not the main public source
 
 Output:
 

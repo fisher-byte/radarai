@@ -11,6 +11,7 @@ English-first weekly reports mirrored from RadarAI. These files are copied from 
 | Slug | English | Chinese |
 |---|---|---|
 | weekly-2026-03-06 | [en/weekly-2026-03-06.md](en/weekly-2026-03-06.md) | [zh-CN/weekly-2026-03-06.md](zh-CN/weekly-2026-03-06.md) |
+| weekly-2026-04-10 | [en/weekly-2026-04-10.md](en/weekly-2026-04-10.md) | [zh-CN/weekly-2026-04-10.md](zh-CN/weekly-2026-04-10.md) |
 
 ## Notes
 

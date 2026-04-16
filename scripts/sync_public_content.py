@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import os
 import shutil
+import sqlite3
 from collections import Counter
 from pathlib import Path
 
@@ -26,16 +27,32 @@ def _public_repo_root() -> Path:
 
 def _updates_source_path(project_root: Path) -> Path:
     source_mode = os.environ.get("RADARAI_PUBLIC_UPDATES_SOURCE", "auto").strip().lower()
+    latest_snapshot_db = _latest_snapshot_db(project_root)
+    local_db = project_root / "data" / "radarai.db"
     latest_snapshot = _latest_snapshot_updates(project_root)
     local_updates = project_root / "data" / "updates.json"
 
+    if source_mode == "db":
+        if latest_snapshot_db:
+            return latest_snapshot_db
+        if local_db.exists():
+            return local_db
+        raise FileNotFoundError("RADARAI_PUBLIC_UPDATES_SOURCE=db but no SQLite DB source was found.")
     if source_mode == "local":
         return local_updates
     if source_mode == "snapshot":
         if latest_snapshot:
             return latest_snapshot
         raise FileNotFoundError("RADARAI_PUBLIC_UPDATES_SOURCE=snapshot but no server snapshot updates.json was found.")
-    return latest_snapshot or local_updates
+    return latest_snapshot_db or (local_db if local_db.exists() else None) or latest_snapshot or local_updates
+
+
+def _latest_snapshot_db(project_root: Path) -> Path | None:
+    snapshot_root = project_root / "data" / "server_snapshots"
+    if not snapshot_root.exists():
+        return None
+    candidates = sorted(snapshot_root.glob("20*/radarai.db"), reverse=True)
+    return candidates[0] if candidates else None
 
 
 def _latest_snapshot_updates(project_root: Path) -> Path | None:
@@ -47,7 +64,13 @@ def _latest_snapshot_updates(project_root: Path) -> Path | None:
 
 
 def _describe_updates_source(project_root: Path, updates_source: Path) -> str:
+    latest_snapshot_db = _latest_snapshot_db(project_root)
     latest_snapshot = _latest_snapshot_updates(project_root)
+    local_db = project_root / "data" / "radarai.db"
+    if latest_snapshot_db and updates_source == latest_snapshot_db:
+        return f"latest server snapshot DB: {latest_snapshot_db.parent.name}/radarai.db"
+    if updates_source == local_db:
+        return "local DB fallback: data/radarai.db"
     if latest_snapshot and updates_source == latest_snapshot:
         return f"latest server snapshot: {latest_snapshot.parent.name}/updates.json"
     return "local fallback: data/updates.json"
@@ -56,6 +79,27 @@ def _describe_updates_source(project_root: Path, updates_source: Path) -> str:
 def _read_json(path: Path):
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
+
+
+def _read_updates_from_db(path: Path) -> list[dict]:
+    conn = sqlite3.connect(path)
+    conn.row_factory = sqlite3.Row
+    try:
+        rows = conn.execute("SELECT * FROM updates ORDER BY created_at DESC").fetchall()
+    finally:
+        conn.close()
+
+    items: list[dict] = []
+    for row in rows:
+        item = dict(row)
+        tags = item.get("tags")
+        if isinstance(tags, str):
+            try:
+                item["tags"] = json.loads(tags)
+            except Exception:
+                item["tags"] = []
+        items.append(item)
+    return items
 
 
 def _slug_url(item: dict) -> str:
@@ -193,7 +237,10 @@ def _build_weekly_index(report_files: list[Path]) -> str:
 
 def sync_updates(project_root: Path, public_root: Path) -> None:
     updates_source = _updates_source_path(project_root)
-    updates = _read_json(updates_source)
+    if updates_source.suffix.lower() == ".db":
+        updates = _read_updates_from_db(updates_source)
+    else:
+        updates = _read_json(updates_source)
     updates_root = public_root / "updates"
     briefs_root = updates_root / "briefs"
     weekly_root = updates_root / "weekly"

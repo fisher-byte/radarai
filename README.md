@@ -64,8 +64,8 @@ python3 scripts/sync_public_content.py
 
 The script will:
 
-- prefer the latest `data/server_snapshots/.../updates.json` if available
-- fall back to local `data/updates.json` only when no server snapshot exists
+- prefer the latest `data/server_snapshots/.../radarai.db` if available
+- fall back to local `data/radarai.db` before using old JSON compatibility files
 - copy weekly report files from the local `radarai-weekly-reports/` public mirror
 
 See [`docs/MIRROR_AND_SYNC.md`](docs/MIRROR_AND_SYNC.md) for the full relationship and workflow.
