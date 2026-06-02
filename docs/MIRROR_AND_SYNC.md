@@ -97,8 +97,11 @@ Recommended order:
 
 1. sync the main project from the server  
    example: `bash scripts/sync_from_server.sh`
-2. if a new weekly issue exists, sync `radarai-weekly-reports/`
-3. refresh this public archive repo
+2. sync and **push** `radarai-weekly-reports/` (authoritative weekly Markdown)  
+   example: `python3 scripts/sync_from_weekly_report_json.py` then `git push` in that repo
+3. refresh **this** public archive repo and push
+
+Full dual-repo checklist: main project [docs/sop/public-github-mirror-sop.md](../../docs/sop/public-github-mirror-sop.md).
 
 After the main project has pulled the latest server data, run:
 

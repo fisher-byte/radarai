@@ -54,8 +54,10 @@ That repo remains the focused weekly public mirror. This repo is the broader pub
 This repo is designed to live next to the main RadarAI project. The intended order is:
 
 1. sync the main project from the server
-2. sync the weekly public mirror if a new weekly issue was published
-3. refresh this public archive repo
+2. sync and push [fisher-byte/radarai-weekly-reports](https://github.com/fisher-byte/radarai-weekly-reports) (weekly authority)
+3. refresh and push **this** repo (`radarai-public`)
+
+See [docs/sop/public-github-mirror-sop.md](../docs/sop/public-github-mirror-sop.md) in the main project for the full dual-repo SOP.
 
 After the main app data is synced from the server, run:
 
