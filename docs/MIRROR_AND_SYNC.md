@@ -64,6 +64,25 @@ Output:
 - `weekly-reports/zh-CN/*.md`
 - `weekly-reports/README.md`
 
+### 3. Long-form articles (GitHub-only mirror)
+
+Source:
+
+- manual batch file in the main project, e.g. `杂项内容/等待同步文档.md`
+- split script: `scripts/split_pending_sync_to_public_articles.py`
+
+Output:
+
+- `articles/en/*.md`
+- `articles/zh-CN/*.md`
+- `articles/README.md`
+
+Important:
+
+- files use `mirror_only: true` in frontmatter
+- they are **not** synced from `seo_articles` and do **not** replace live `/articles/` pages on radarai.top
+- use this layer when you need stable GitHub blob links for citation or sharing
+
 ## Sync workflow
 
 This public repo is expected to live **inside or next to** the main RadarAI workspace, for example:
@@ -86,6 +105,7 @@ After the main project has pulled the latest server data, run:
 ```bash
 cd radarai-public
 python3 scripts/sync_public_content.py
+python3 ../scripts/split_pending_sync_to_public_articles.py   # when refreshing articles/ batch
 ```
 
 Then commit and push this repo.

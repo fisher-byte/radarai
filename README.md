@@ -39,6 +39,7 @@ These are the most useful public pages if you want to understand how RadarAI str
 
 - [`updates/`](updates/README.md): historical update briefs mirrored from the latest server-synced updates source
 - [`weekly-reports/`](weekly-reports/README.md): weekly report files copied from the dedicated weekly public mirror repo
+- [`articles/`](articles/README.md): long-form article mirrors for GitHub citation only (`mirror_only: true`; not the live radarai.top article surface)
 
 ## Related public repo
 
@@ -59,7 +60,9 @@ This repo is designed to live next to the main RadarAI project. The intended ord
 After the main app data is synced from the server, run:
 
 ```bash
-python3 scripts/sync_public_content.py
+bash scripts/sync_from_server.sh   # from main project root
+cd radarai-public && python3 scripts/sync_public_content.py
+python3 ../scripts/split_pending_sync_to_public_articles.py   # optional: refresh articles/ batch
 ```
 
 The script will:
@@ -68,6 +71,8 @@ The script will:
 - fall back to local `data/radarai.db` before using old JSON compatibility files
 - copy weekly report files from the local `radarai-weekly-reports/` public mirror
 
+Article batches under `articles/` are written by `scripts/split_pending_sync_to_public_articles.py` in the main project (separate from DB-driven `updates/` sync).
+
 See [`docs/MIRROR_AND_SYNC.md`](docs/MIRROR_AND_SYNC.md) for the full relationship and workflow.
 
 ## Why this repo exists
@@ -75,7 +80,7 @@ See [`docs/MIRROR_AND_SYNC.md`](docs/MIRROR_AND_SYNC.md) for the full relationsh
 This repository supports three public goals:
 
 1. A simple GitHub home for RadarAI that is safe to share publicly.
-2. A stable archive of historical `updates` and weekly reports.
+2. A stable archive of historical `updates`, weekly reports, and selected long-form `articles`.
 3. A clearer public README that can work as an A-class mention target when people cite RadarAI resources.
 
 ## 中文说明

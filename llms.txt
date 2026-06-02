@@ -20,6 +20,7 @@
 ## Public archive in this repo
 - Historical updates index: ./updates/README.md
 - Weekly reports index: ./weekly-reports/README.md
+- Long-form articles index (GitHub mirror only): ./articles/README.md
 
 ## Related public repo
 - Dedicated weekly mirror: https://github.com/fisher-byte/radarai-weekly-reports
