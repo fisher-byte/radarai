@@ -18,6 +18,10 @@ Long-form articles mirrored from the pending sync batch. **Not published on rada
 | 9 | 6 No-Signup, No-Login Online PDF to Word Websites — 2026 Latest Free and Easy-to-Use Tool Recommendations | `en` | [no-signup-pdf-to-word-online-2026-6-tools](articles/en/no-signup-pdf-to-word-online-2026-6-tools.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/no-signup-pdf-to-word-online-2026-6-tools.md) |
 | 10 | 2026 Recommended Free Online PDF to Word Tools: 5 Options | `en` | [free-pdf-to-word-online-tools-2026-5-options](articles/en/free-pdf-to-word-online-tools-2026-5-options.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/free-pdf-to-word-online-tools-2026-5-options.md) |
 
+| 11 | How to Build a Prompt Optimization Workflow: Versioning, Evaluation, and Rollback for Teams | `en` | [prompt-优化流程怎么搭从版本管理评测到回滚的团队实操](articles/en/prompt-优化流程怎么搭从版本管理评测到回滚的团队实操.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-优化流程怎么搭从版本管理评测到回滚的团队实操.md) |
+| 12 | How to Choose Prompt Testing and Evaluation Tools: From Prompt Compare to Rubrics and Human Review | `en` | [prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流](articles/en/prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流.md) |
+| 13 | Why Prompts Suddenly Stop Working: A Tracking Order for Model Updates, Policy Shifts, and Parameter Surfaces | `en` | [prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序](articles/en/prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序.md) |
+
 ## Notes
 
 - These files are for public citation and sharing on GitHub only.
