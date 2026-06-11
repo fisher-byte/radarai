@@ -21,6 +21,9 @@ Long-form articles mirrored from the pending sync batch. **Not published on rada
 | 11 | How to Build a Prompt Optimization Workflow: Versioning, Evaluation, and Rollback for Teams | `en` | [prompt-优化流程怎么搭从版本管理评测到回滚的团队实操](articles/en/prompt-优化流程怎么搭从版本管理评测到回滚的团队实操.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-优化流程怎么搭从版本管理评测到回滚的团队实操.md) |
 | 12 | How to Choose Prompt Testing and Evaluation Tools: From Prompt Compare to Rubrics and Human Review | `en` | [prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流](articles/en/prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-测试与评测工具怎么选从-prompt-compare-rubric-到人工复核的工作流.md) |
 | 13 | Why Prompts Suddenly Stop Working: A Tracking Order for Model Updates, Policy Shifts, and Parameter Surfaces | `en` | [prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序](articles/en/prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/prompt-为什么会突然失效模型更新策略变化与参数面变化的追踪顺序.md) |
+| 14 | Has MCP Moved from Buzzword to Infrastructure? What Teams Should Actually Track Now | `en` | [mcp-从热词变成基础设施了吗团队现在到底该关注什么](articles/en/mcp-从热词变成基础设施了吗团队现在到底该关注什么.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/mcp-从热词变成基础设施了吗团队现在到底该关注什么.md) |
+| 15 | How Far Have Browser Agents and Computer Use Actually Moved in the Past Year? | `en` | [browser-agent-和-computer-use-最近一年真正进展到哪了](articles/en/browser-agent-和-computer-use-最近一年真正进展到哪了.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/browser-agent-和-computer-use-最近一年真正进展到哪了.md) |
+| 16 | How to Track Open-Source AI Projects Without Chasing Hype Alone | `en` | [开源-ai-项目更新怎么追才不会只追到热度](articles/en/开源-ai-项目更新怎么追才不会只追到热度.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/开源-ai-项目更新怎么追才不会只追到热度.md) |
 
 ## Notes
 
