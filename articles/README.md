@@ -24,6 +24,9 @@ Long-form articles mirrored from the pending sync batch. **Not published on rada
 | 14 | Has MCP Moved from Buzzword to Infrastructure? What Teams Should Actually Track Now | `en` | [mcp-从热词变成基础设施了吗团队现在到底该关注什么](articles/en/mcp-从热词变成基础设施了吗团队现在到底该关注什么.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/mcp-从热词变成基础设施了吗团队现在到底该关注什么.md) |
 | 15 | How Far Have Browser Agents and Computer Use Actually Moved in the Past Year? | `en` | [browser-agent-和-computer-use-最近一年真正进展到哪了](articles/en/browser-agent-和-computer-use-最近一年真正进展到哪了.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/browser-agent-和-computer-use-最近一年真正进展到哪了.md) |
 | 16 | How to Track Open-Source AI Projects Without Chasing Hype Alone | `en` | [开源-ai-项目更新怎么追才不会只追到热度](articles/en/开源-ai-项目更新怎么追才不会只追到热度.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/en/开源-ai-项目更新怎么追才不会只追到热度.md) |
+| 17 | Browser Agent 在真实团队里怎么用：哪里省时间，哪里还是容易坏 | `zh-CN` | [browser-agent-在真实团队里怎么用哪里省时间哪里还是容易坏](articles/zh-CN/browser-agent-在真实团队里怎么用哪里省时间哪里还是容易坏.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/browser-agent-在真实团队里怎么用哪里省时间哪里还是容易坏.md) |
+| 18 | AI API 重大变更怎么提前发现：别等生产出问题才知道 | `zh-CN` | [ai-api-重大变更怎么提前发现别等生产出问题才知道](articles/zh-CN/ai-api-重大变更怎么提前发现别等生产出问题才知道.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/ai-api-重大变更怎么提前发现别等生产出问题才知道.md) |
+| 19 | GitHub 和 Hugging Face 的开源 AI 更新怎么一起追：给 builder 的最小方法 | `zh-CN` | [github-和-hugging-face-的开源-ai-更新怎么一起追给-builder-的最小方法](articles/zh-CN/github-和-hugging-face-的开源-ai-更新怎么一起追给-builder-的最小方法.md) | [view](https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/github-和-hugging-face-的开源-ai-更新怎么一起追给-builder-的最小方法.md) |
 
 ## Notes
 
