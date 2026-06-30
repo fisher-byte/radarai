@@ -24,3 +24,12 @@
 
 ## Related public repo
 - Dedicated weekly mirror: https://github.com/fisher-byte/radarai-weekly-reports
+
+## Latest long-form article mirrors
+
+- 7 GitHub AI Agent Projects Changing Developer Workflows in 2026: https://radarai.top/en/articles/2026年github趋势解读7个正在改变ai-agent工作流的开源项目 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/en/7-github-ai-agent-projects-changing-developer-workflows-2026.md)
+- AI Agent Enterprise Adoption Guide: From Pilot to Team Workflow: https://radarai.top/en/articles/ai-agent企业落地实践指南从试点验收到团队采用的6步流程 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/en/ai-agent-enterprise-adoption-guide-from-pilot-to-team-workflow.md)
+- Top 10 AI Agent and Developer Tools to Watch in 2026: https://radarai.top/en/articles/2026年ai圈爆火产品盘点10款最值得关注的ai-agent与开发者工具 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/en/top-10-ai-agent-and-developer-tools-to-watch-2026.md)
+- 2026 年 AI 圈爆火产品盘点：10 款最值得关注的 AI Agent 与开发者工具: https://radarai.top/articles/2026年ai圈爆火产品盘点10款最值得关注的ai-agent与开发者工具 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/2026年ai圈爆火产品盘点10款最值得关注的ai-agent与开发者工具.md)
+- 2026 年 GitHub 趋势解读：7 个正在改变 AI Agent 工作流的开源项目: https://radarai.top/articles/2026年github趋势解读7个正在改变ai-agent工作流的开源项目 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/2026年github趋势解读7个正在改变ai-agent工作流的开源项目.md)
+- AI Agent 企业落地实践指南：从试点、验收到团队采用的 6 步流程: https://radarai.top/articles/ai-agent企业落地实践指南从试点验收到团队采用的6步流程 (GitHub: https://github.com/fisher-byte/radarai/blob/main/articles/zh-CN/ai-agent企业落地实践指南从试点验收到团队采用的6步流程.md)
