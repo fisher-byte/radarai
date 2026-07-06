@@ -92,3 +92,12 @@ Mastra 值得放进这张表，是因为很多 agent 最终不是研究项目，
 如果你要持续跟踪这些 GitHub 项目，不要只看 star 总数。更有用的是 release 频率、issue 关闭速度、文档更新、真实案例、breaking change 说明、生态集成和安全讨论。一个项目 star 增长很快，说明它获得关注；但一个项目能不能进入团队流程，要看它有没有稳定维护、有没有清楚文档、有没有失败案例和迁移说明。
 
 RadarAI 后续更适合把这类内容做成连续观察：本周哪些项目 release 了重要版本，哪些项目开始支持 MCP，哪些项目出现企业部署案例，哪些项目的问题集中在浏览器稳定性、权限或运行环境。这样“GitHub 趋势”就不是一次性榜单，而是持续帮用户判断该试、该等、还是该跳过。
+
+## 2026 年 GitHub 趋势解读：7 个正在改变 AI Agent 工作流的开源项目：相关追踪路径
+
+这页适合作为一次具体判断，不适合孤立阅读。读完后，最好再对照 China AI 更新、开源项目活跃度、工具链变化和 builder 实际工作流影响，判断它是不是值得进入观察队列。
+
+相关阅读：
+- [AI API 重大变更怎么提前发现](https://radarai.top/articles/ai-api-重大变更怎么提前发现别等生产出问题才知道)
+- [GitHub 和 Hugging Face 的开源 AI 更新怎么一起追](https://radarai.top/articles/github-和-hugging-face-的开源-ai-更新怎么一起追给-builder-的最小方法)
+- [Browser Agent 在真实团队里怎么用](https://radarai.top/articles/browser-agent-在真实团队里怎么用哪里省时间哪里还是容易坏)

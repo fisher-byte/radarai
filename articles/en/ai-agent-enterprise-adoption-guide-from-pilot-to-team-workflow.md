@@ -13,7 +13,7 @@ A six-step AI agent adoption guide for enterprise teams, from pilot selection an
 
 # AI Agent Enterprise Adoption Guide: From Pilot to Team Workflow
 
-Enterprise AI agent adoption should not start with a platform slogan. It should start with one real, low-risk, repeatable task. Measure the human baseline, run the agent, capture review evidence, calculate net time saved, define stop conditions, and only then turn the workflow into a team SOP.
+Enterprise AI agent adoption works better when it starts from one real, low-risk, repeatable task instead of a platform slogan. Measure the human baseline, run the agent, capture review evidence, calculate net time saved, define stop conditions, and only then turn the workflow into a team SOP.
 
 ## Six Steps
 
@@ -49,3 +49,12 @@ The third category is repeated knowledge work. Good pilots include support ticke
 ## Team SOP Template
 
 Every adopted workflow should include a task name, input format, allowed actions, forbidden actions, output format, reviewer, escalation path, and stop condition. Without this template, the workflow is only a personal productivity trick. With it, the team can repeat the process, measure it, and improve it.
+
+## AI Agent Enterprise Adoption Guide: From Pilot to Team Workflow: related reading path
+
+Use this page as one step in a broader monitoring workflow, not as a standalone headline. After checking the facts here, compare the signal with China AI updates, open-source project activity, and builder workflow impact.
+
+Related reading:
+- [AI news sites worth following](https://radarai.top/en/articles/ai-news-sites-worth-following-2026)
+- [How to track China AI developments in English](https://radarai.top/en/articles/how-to-track-china-ai-developments-in-english)
+- [China AI monitoring tools](https://radarai.top/en/articles/china-ai-monitoring-tools-a-builder-stack-for-tracking-labs-models-and-api-changes)

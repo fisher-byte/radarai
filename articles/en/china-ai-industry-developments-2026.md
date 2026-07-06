@@ -92,3 +92,12 @@ Related reading
 ●https://radarai.top/en/articles/china-ai-updates-in-english-what-builders-should-watch-each-month 
 ●https://radarai.top/en/articles/how-to-track-china-ai-in-english-without-doomscrolling 
 ●https://radarai.top/en/articles/best-english-sources-for-china-ai-industry-updates-2026-guide
+
+## China AI Industry Developments 2026: What's Actually Changing: related reading path
+
+Use this page as one step in a broader monitoring workflow, not as a standalone headline. After checking the facts here, compare the signal with China AI updates, open-source project activity, and builder workflow impact.
+
+Related reading:
+- [AI news sites worth following](https://radarai.top/en/articles/ai-news-sites-worth-following-2026)
+- [How to track China AI developments in English](https://radarai.top/en/articles/how-to-track-china-ai-developments-in-english)
+- [China AI monitoring tools](https://radarai.top/en/articles/china-ai-monitoring-tools-a-builder-stack-for-tracking-labs-models-and-api-changes)

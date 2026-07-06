@@ -102,3 +102,12 @@ OpenHands、browser-use 和 Playwright MCP 的价值更偏执行环境。OpenHan
 如果你是开发者，2026 年最先应该试的是 Claude Code、OpenAI Codex、Cursor 或 GitHub Copilot，因为它们直接进入日常编码。随后再看 OpenHands、browser-use、Playwright MCP，把 agent 从代码带到真实任务环境。等你有稳定重复流程，再引入 LangGraph、CrewAI、Mastra。
 
 这批工具真正的价值不是“让 AI 自己工作”，而是把你已经在做的重复步骤变得更短、更可复查、更容易交给团队。热门标题可以带来点击，但真正留下用户的，还是这张表：谁适合你、拿什么任务试、什么时候暂停。
+
+## 2026 年 AI 圈爆火产品盘点：10 款最值得关注的 AI Agent 与开发者工具：相关追踪路径
+
+这页适合作为一次具体判断，不适合孤立阅读。读完后，最好再对照 China AI 更新、开源项目活跃度、工具链变化和 builder 实际工作流影响，判断它是不是值得进入观察队列。
+
+相关阅读：
+- [AI API 重大变更怎么提前发现](https://radarai.top/articles/ai-api-重大变更怎么提前发现别等生产出问题才知道)
+- [GitHub 和 Hugging Face 的开源 AI 更新怎么一起追](https://radarai.top/articles/github-和-hugging-face-的开源-ai-更新怎么一起追给-builder-的最小方法)
+- [Browser Agent 在真实团队里怎么用](https://radarai.top/articles/browser-agent-在真实团队里怎么用哪里省时间哪里还是容易坏)

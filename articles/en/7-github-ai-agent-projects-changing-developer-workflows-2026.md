@@ -58,3 +58,12 @@ Mastra is worth watching for teams that build AI features inside TypeScript prod
 | Documentation depth | Determines whether a team can adopt without guessing |
 | Security and permissions guidance | Matters when agents touch repos, browsers, tokens, and internal tools |
 | Ecosystem integrations | Shows whether the project can fit into existing workflows |
+
+## 7 GitHub AI Agent Projects Changing Developer Workflows in 2026: related reading path
+
+Use this page as one step in a broader monitoring workflow, not as a standalone headline. After checking the facts here, compare the signal with China AI updates, open-source project activity, and builder workflow impact.
+
+Related reading:
+- [AI news sites worth following](https://radarai.top/en/articles/ai-news-sites-worth-following-2026)
+- [How to track China AI developments in English](https://radarai.top/en/articles/how-to-track-china-ai-developments-in-english)
+- [China AI monitoring tools](https://radarai.top/en/articles/china-ai-monitoring-tools-a-builder-stack-for-tracking-labs-models-and-api-changes)
