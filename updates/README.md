@@ -2,15 +2,219 @@
 
 Public archive of RadarAI update briefs and weekly update entries mirrored from the production data source.
 
-- Total items: **362**
-- Brief items: **350**
-- Weekly-report entries in updates stream: **12**
-- Current source: **latest server snapshot DB: 20260602-1731/radarai.db**
+- Total items: **566**
+- Brief items: **545**
+- Weekly-report entries in updates stream: **21**
+- Current source: **latest server snapshot DB: 20260806-195336/radarai.db**
 
 ## Latest entries
 
 | Created at | Type | Title | Public file | Live page |
 |---|---|---|---|---|
+| 2026-08-06 16:00 | `brief` | 8月6日 AI 速报 · 第 545 期 | [brief-20260806-1600](briefs/brief-20260806-1600.md) | [live](https://radarai.top/updates/brief-20260806-1600) |
+| 2026-08-06 08:00 | `brief` | 8月6日 AI 速报 · 第 544 期 | [brief-20260806-0800](briefs/brief-20260806-0800.md) | [live](https://radarai.top/updates/brief-20260806-0800) |
+| 2026-08-06 00:00 | `brief` | 8月6日 AI 速报 · 第 543 期 | [brief-20260806-0000](briefs/brief-20260806-0000.md) | [live](https://radarai.top/updates/brief-20260806-0000) |
+| 2026-08-05 16:00 | `brief` | 8月5日 AI 速报 · 第 542 期 | [brief-20260805-1600](briefs/brief-20260805-1600.md) | [live](https://radarai.top/updates/brief-20260805-1600) |
+| 2026-08-05 08:00 | `brief` | 8月5日 AI 速报 · 第 541 期 | [brief-20260805-0800](briefs/brief-20260805-0800.md) | [live](https://radarai.top/updates/brief-20260805-0800) |
+| 2026-08-05 00:00 | `brief` | 8月5日 AI 速报 · 第 540 期 | [brief-20260805-0000](briefs/brief-20260805-0000.md) | [live](https://radarai.top/updates/brief-20260805-0000) |
+| 2026-08-04 16:00 | `brief` | 8月4日 AI 速报 · 第 539 期 | [brief-20260804-1600](briefs/brief-20260804-1600.md) | [live](https://radarai.top/updates/brief-20260804-1600) |
+| 2026-08-04 08:00 | `brief` | 8月4日 AI 速报 · 第 538 期 | [brief-20260804-0800](briefs/brief-20260804-0800.md) | [live](https://radarai.top/updates/brief-20260804-0800) |
+| 2026-08-04 00:00 | `brief` | 8月4日 AI 速报 · 第 537 期 | [brief-20260804-0000](briefs/brief-20260804-0000.md) | [live](https://radarai.top/updates/brief-20260804-0000) |
+| 2026-08-03 16:00 | `brief` | 8月3日 AI 速报 · 第 536 期 | [brief-20260803-1600](briefs/brief-20260803-1600.md) | [live](https://radarai.top/updates/brief-20260803-1600) |
+| 2026-08-03 08:00 | `brief` | 8月3日 AI 速报 · 第 535 期 | [brief-20260803-0800](briefs/brief-20260803-0800.md) | [live](https://radarai.top/updates/brief-20260803-0800) |
+| 2026-08-03 00:00 | `brief` | 8月3日 AI 速报 · 第 534 期 | [brief-20260803-0000](briefs/brief-20260803-0000.md) | [live](https://radarai.top/updates/brief-20260803-0000) |
+| 2026-08-02 16:00 | `brief` | 8月2日 AI 速报 · 第 533 期 | [brief-20260802-1600](briefs/brief-20260802-1600.md) | [live](https://radarai.top/updates/brief-20260802-1600) |
+| 2026-08-02 08:00 | `brief` | 8月2日 AI 速报 · 第 532 期 | [brief-20260802-0800](briefs/brief-20260802-0800.md) | [live](https://radarai.top/updates/brief-20260802-0800) |
+| 2026-08-02 00:00 | `brief` | 8月2日 AI 速报 · 第 531 期 | [brief-20260802-0000](briefs/brief-20260802-0000.md) | [live](https://radarai.top/updates/brief-20260802-0000) |
+| 2026-08-01 16:00 | `brief` | 8月1日 AI 速报 · 第 530 期 | [brief-20260801-1600](briefs/brief-20260801-1600.md) | [live](https://radarai.top/updates/brief-20260801-1600) |
+| 2026-08-01 08:00 | `brief` | 8月1日 AI 速报 · 第 529 期 | [brief-20260801-0800](briefs/brief-20260801-0800.md) | [live](https://radarai.top/updates/brief-20260801-0800) |
+| 2026-08-01 00:00 | `brief` | 8月1日 AI 速报 · 第 528 期 | [brief-20260801-0000](briefs/brief-20260801-0000.md) | [live](https://radarai.top/updates/brief-20260801-0000) |
+| 2026-07-31 16:00 | `brief` | 7月31日 AI 速报 · 第 527 期 | [brief-20260731-1600](briefs/brief-20260731-1600.md) | [live](https://radarai.top/updates/brief-20260731-1600) |
+| 2026-07-31 09:00 | `weekly_report` | 每周 AI 热点 · 2026-07-31 | [weekly-2026-07-31](weekly/weekly-2026-07-31.md) | [live](https://radarai.top/updates/weekly-2026-07-31) |
+| 2026-07-31 08:00 | `brief` | 7月31日 AI 速报 · 第 526 期 | [brief-20260731-0800](briefs/brief-20260731-0800.md) | [live](https://radarai.top/updates/brief-20260731-0800) |
+| 2026-07-31 00:00 | `brief` | 7月31日 AI 速报 · 第 525 期 | [brief-20260731-0000](briefs/brief-20260731-0000.md) | [live](https://radarai.top/updates/brief-20260731-0000) |
+| 2026-07-30 16:00 | `brief` | 7月30日 AI 速报 · 第 524 期 | [brief-20260730-1600](briefs/brief-20260730-1600.md) | [live](https://radarai.top/updates/brief-20260730-1600) |
+| 2026-07-30 08:00 | `brief` | 7月30日 AI 速报 · 第 523 期 | [brief-20260730-0800](briefs/brief-20260730-0800.md) | [live](https://radarai.top/updates/brief-20260730-0800) |
+| 2026-07-30 00:00 | `brief` | 7月30日 AI 速报 · 第 522 期 | [brief-20260730-0000](briefs/brief-20260730-0000.md) | [live](https://radarai.top/updates/brief-20260730-0000) |
+| 2026-07-29 16:00 | `brief` | 7月29日 AI 速报 · 第 521 期 | [brief-20260729-1600](briefs/brief-20260729-1600.md) | [live](https://radarai.top/updates/brief-20260729-1600) |
+| 2026-07-29 08:00 | `brief` | 7月29日 AI 速报 · 第 520 期 | [brief-20260729-0800](briefs/brief-20260729-0800.md) | [live](https://radarai.top/updates/brief-20260729-0800) |
+| 2026-07-29 00:00 | `brief` | 7月29日 AI 速报 · 第 519 期 | [brief-20260729-0000](briefs/brief-20260729-0000.md) | [live](https://radarai.top/updates/brief-20260729-0000) |
+| 2026-07-28 16:00 | `brief` | 7月28日 AI 速报 · 第 518 期 | [brief-20260728-1600](briefs/brief-20260728-1600.md) | [live](https://radarai.top/updates/brief-20260728-1600) |
+| 2026-07-28 08:00 | `brief` | 7月28日 AI 速报 · 第 517 期 | [brief-20260728-0800](briefs/brief-20260728-0800.md) | [live](https://radarai.top/updates/brief-20260728-0800) |
+| 2026-07-28 00:00 | `brief` | 7月28日 AI 速报 · 第 516 期 | [brief-20260728-0000](briefs/brief-20260728-0000.md) | [live](https://radarai.top/updates/brief-20260728-0000) |
+| 2026-07-27 16:00 | `brief` | 7月27日 AI 速报 · 第 515 期 | [brief-20260727-1600](briefs/brief-20260727-1600.md) | [live](https://radarai.top/updates/brief-20260727-1600) |
+| 2026-07-27 08:00 | `brief` | 7月27日 AI 速报 · 第 514 期 | [brief-20260727-0800](briefs/brief-20260727-0800.md) | [live](https://radarai.top/updates/brief-20260727-0800) |
+| 2026-07-27 00:00 | `brief` | 7月27日 AI 速报 · 第 513 期 | [brief-20260727-0000](briefs/brief-20260727-0000.md) | [live](https://radarai.top/updates/brief-20260727-0000) |
+| 2026-07-26 16:00 | `brief` | 7月26日 AI 速报 · 第 512 期 | [brief-20260726-1600](briefs/brief-20260726-1600.md) | [live](https://radarai.top/updates/brief-20260726-1600) |
+| 2026-07-26 08:00 | `brief` | 7月26日 AI 速报 · 第 511 期 | [brief-20260726-0800](briefs/brief-20260726-0800.md) | [live](https://radarai.top/updates/brief-20260726-0800) |
+| 2026-07-26 00:00 | `brief` | 7月26日 AI 速报 · 第 510 期 | [brief-20260726-0000](briefs/brief-20260726-0000.md) | [live](https://radarai.top/updates/brief-20260726-0000) |
+| 2026-07-25 16:00 | `brief` | 7月25日 AI 速报 · 第 509 期 | [brief-20260725-1600](briefs/brief-20260725-1600.md) | [live](https://radarai.top/updates/brief-20260725-1600) |
+| 2026-07-25 08:00 | `brief` | 7月25日 AI 速报 · 第 508 期 | [brief-20260725-0800](briefs/brief-20260725-0800.md) | [live](https://radarai.top/updates/brief-20260725-0800) |
+| 2026-07-25 00:00 | `brief` | 7月25日 AI 速报 · 第 507 期 | [brief-20260725-0000](briefs/brief-20260725-0000.md) | [live](https://radarai.top/updates/brief-20260725-0000) |
+| 2026-07-24 16:00 | `brief` | 7月24日 AI 速报 · 第 506 期 | [brief-20260724-1600](briefs/brief-20260724-1600.md) | [live](https://radarai.top/updates/brief-20260724-1600) |
+| 2026-07-24 09:00 | `weekly_report` | 每周 AI 热点 · 2026-07-24 | [weekly-2026-07-24](weekly/weekly-2026-07-24.md) | [live](https://radarai.top/updates/weekly-2026-07-24) |
+| 2026-07-24 08:00 | `brief` | 7月24日 AI 速报 · 第 505 期 | [brief-20260724-0800](briefs/brief-20260724-0800.md) | [live](https://radarai.top/updates/brief-20260724-0800) |
+| 2026-07-24 00:00 | `brief` | 7月24日 AI 速报 · 第 504 期 | [brief-20260724-0000](briefs/brief-20260724-0000.md) | [live](https://radarai.top/updates/brief-20260724-0000) |
+| 2026-07-23 16:00 | `brief` | 7月23日 AI 速报 · 第 503 期 | [brief-20260723-1600](briefs/brief-20260723-1600.md) | [live](https://radarai.top/updates/brief-20260723-1600) |
+| 2026-07-23 08:00 | `brief` | 7月23日 AI 速报 · 第 502 期 | [brief-20260723-0800](briefs/brief-20260723-0800.md) | [live](https://radarai.top/updates/brief-20260723-0800) |
+| 2026-07-23 00:00 | `brief` | 7月23日 AI 速报 · 第 501 期 | [brief-20260723-0000](briefs/brief-20260723-0000.md) | [live](https://radarai.top/updates/brief-20260723-0000) |
+| 2026-07-22 16:00 | `brief` | 7月22日 AI 速报 · 第 500 期 | [brief-20260722-1600](briefs/brief-20260722-1600.md) | [live](https://radarai.top/updates/brief-20260722-1600) |
+| 2026-07-22 08:00 | `brief` | 7月22日 AI 速报 · 第 499 期 | [brief-20260722-0800](briefs/brief-20260722-0800.md) | [live](https://radarai.top/updates/brief-20260722-0800) |
+| 2026-07-22 00:00 | `brief` | 7月22日 AI 速报 · 第 498 期 | [brief-20260722-0000](briefs/brief-20260722-0000.md) | [live](https://radarai.top/updates/brief-20260722-0000) |
+| 2026-07-21 16:00 | `brief` | 7月21日 AI 速报 · 第 497 期 | [brief-20260721-1600](briefs/brief-20260721-1600.md) | [live](https://radarai.top/updates/brief-20260721-1600) |
+| 2026-07-21 08:00 | `brief` | 7月21日 AI 速报 · 第 496 期 | [brief-20260721-0800](briefs/brief-20260721-0800.md) | [live](https://radarai.top/updates/brief-20260721-0800) |
+| 2026-07-21 00:00 | `brief` | 7月21日 AI 速报 · 第 495 期 | [brief-20260721-0000](briefs/brief-20260721-0000.md) | [live](https://radarai.top/updates/brief-20260721-0000) |
+| 2026-07-20 16:00 | `brief` | 7月20日 AI 速报 · 第 494 期 | [brief-20260720-1600](briefs/brief-20260720-1600.md) | [live](https://radarai.top/updates/brief-20260720-1600) |
+| 2026-07-20 08:00 | `brief` | 7月20日 AI 速报 · 第 493 期 | [brief-20260720-0800](briefs/brief-20260720-0800.md) | [live](https://radarai.top/updates/brief-20260720-0800) |
+| 2026-07-20 00:00 | `brief` | 7月20日 AI 速报 · 第 492 期 | [brief-20260720-0000](briefs/brief-20260720-0000.md) | [live](https://radarai.top/updates/brief-20260720-0000) |
+| 2026-07-19 16:00 | `brief` | 7月19日 AI 速报 · 第 491 期 | [brief-20260719-1600](briefs/brief-20260719-1600.md) | [live](https://radarai.top/updates/brief-20260719-1600) |
+| 2026-07-19 08:00 | `brief` | 7月19日 AI 速报 · 第 490 期 | [brief-20260719-0800](briefs/brief-20260719-0800.md) | [live](https://radarai.top/updates/brief-20260719-0800) |
+| 2026-07-19 00:00 | `brief` | 7月19日 AI 速报 · 第 489 期 | [brief-20260719-0000](briefs/brief-20260719-0000.md) | [live](https://radarai.top/updates/brief-20260719-0000) |
+| 2026-07-18 16:00 | `brief` | 7月18日 AI 速报 · 第 488 期 | [brief-20260718-1600](briefs/brief-20260718-1600.md) | [live](https://radarai.top/updates/brief-20260718-1600) |
+| 2026-07-18 08:00 | `brief` | 7月18日 AI 速报 · 第 487 期 | [brief-20260718-0800](briefs/brief-20260718-0800.md) | [live](https://radarai.top/updates/brief-20260718-0800) |
+| 2026-07-18 00:00 | `brief` | 7月18日 AI 速报 · 第 486 期 | [brief-20260718-0000](briefs/brief-20260718-0000.md) | [live](https://radarai.top/updates/brief-20260718-0000) |
+| 2026-07-17 16:00 | `brief` | 7月17日 AI 速报 · 第 485 期 | [brief-20260717-1600](briefs/brief-20260717-1600.md) | [live](https://radarai.top/updates/brief-20260717-1600) |
+| 2026-07-17 09:00 | `weekly_report` | 每周 AI 热点 · 2026-07-17 | [weekly-2026-07-17](weekly/weekly-2026-07-17.md) | [live](https://radarai.top/updates/weekly-2026-07-17) |
+| 2026-07-17 08:00 | `brief` | 7月17日 AI 速报 · 第 484 期 | [brief-20260717-0800](briefs/brief-20260717-0800.md) | [live](https://radarai.top/updates/brief-20260717-0800) |
+| 2026-07-17 00:00 | `brief` | 7月17日 AI 速报 · 第 483 期 | [brief-20260717-0000](briefs/brief-20260717-0000.md) | [live](https://radarai.top/updates/brief-20260717-0000) |
+| 2026-07-16 16:00 | `brief` | 7月16日 AI 速报 · 第 482 期 | [brief-20260716-1600](briefs/brief-20260716-1600.md) | [live](https://radarai.top/updates/brief-20260716-1600) |
+| 2026-07-16 08:00 | `brief` | 7月16日 AI 速报 · 第 481 期 | [brief-20260716-0800](briefs/brief-20260716-0800.md) | [live](https://radarai.top/updates/brief-20260716-0800) |
+| 2026-07-16 00:00 | `brief` | 7月16日 AI 速报 · 第 480 期 | [brief-20260716-0000](briefs/brief-20260716-0000.md) | [live](https://radarai.top/updates/brief-20260716-0000) |
+| 2026-07-15 16:00 | `brief` | 7月15日 AI 速报 · 第 479 期 | [brief-20260715-1600](briefs/brief-20260715-1600.md) | [live](https://radarai.top/updates/brief-20260715-1600) |
+| 2026-07-15 08:00 | `brief` | 7月15日 AI 速报 · 第 478 期 | [brief-20260715-0800](briefs/brief-20260715-0800.md) | [live](https://radarai.top/updates/brief-20260715-0800) |
+| 2026-07-15 00:00 | `brief` | 7月15日 AI 速报 · 第 477 期 | [brief-20260715-0000](briefs/brief-20260715-0000.md) | [live](https://radarai.top/updates/brief-20260715-0000) |
+| 2026-07-14 16:00 | `brief` | 7月14日 AI 速报 · 第 476 期 | [brief-20260714-1600](briefs/brief-20260714-1600.md) | [live](https://radarai.top/updates/brief-20260714-1600) |
+| 2026-07-14 08:00 | `brief` | 7月14日 AI 速报 · 第 475 期 | [brief-20260714-0800](briefs/brief-20260714-0800.md) | [live](https://radarai.top/updates/brief-20260714-0800) |
+| 2026-07-14 00:00 | `brief` | 7月14日 AI 速报 · 第 474 期 | [brief-20260714-0000](briefs/brief-20260714-0000.md) | [live](https://radarai.top/updates/brief-20260714-0000) |
+| 2026-07-13 16:00 | `brief` | 7月13日 AI 速报 · 第 473 期 | [brief-20260713-1600](briefs/brief-20260713-1600.md) | [live](https://radarai.top/updates/brief-20260713-1600) |
+| 2026-07-13 08:00 | `brief` | 7月13日 AI 速报 · 第 472 期 | [brief-20260713-0800](briefs/brief-20260713-0800.md) | [live](https://radarai.top/updates/brief-20260713-0800) |
+| 2026-07-13 00:00 | `brief` | 7月13日 AI 速报 · 第 471 期 | [brief-20260713-0000](briefs/brief-20260713-0000.md) | [live](https://radarai.top/updates/brief-20260713-0000) |
+| 2026-07-12 16:00 | `brief` | 7月12日 AI 速报 · 第 470 期 | [brief-20260712-1600](briefs/brief-20260712-1600.md) | [live](https://radarai.top/updates/brief-20260712-1600) |
+| 2026-07-12 08:00 | `brief` | 7月12日 AI 速报 · 第 469 期 | [brief-20260712-0800](briefs/brief-20260712-0800.md) | [live](https://radarai.top/updates/brief-20260712-0800) |
+| 2026-07-12 00:00 | `brief` | 7月12日 AI 速报 · 第 468 期 | [brief-20260712-0000](briefs/brief-20260712-0000.md) | [live](https://radarai.top/updates/brief-20260712-0000) |
+| 2026-07-11 16:00 | `brief` | 7月11日 AI 速报 · 第 467 期 | [brief-20260711-1600](briefs/brief-20260711-1600.md) | [live](https://radarai.top/updates/brief-20260711-1600) |
+| 2026-07-11 08:00 | `brief` | 7月11日 AI 速报 · 第 466 期 | [brief-20260711-0800](briefs/brief-20260711-0800.md) | [live](https://radarai.top/updates/brief-20260711-0800) |
+| 2026-07-11 00:00 | `brief` | 7月11日 AI 速报 · 第 465 期 | [brief-20260711-0000](briefs/brief-20260711-0000.md) | [live](https://radarai.top/updates/brief-20260711-0000) |
+| 2026-07-10 16:00 | `brief` | 7月10日 AI 速报 · 第 464 期 | [brief-20260710-1600](briefs/brief-20260710-1600.md) | [live](https://radarai.top/updates/brief-20260710-1600) |
+| 2026-07-10 09:00 | `weekly_report` | 每周 AI 热点 · 2026-07-10 | [weekly-2026-07-10](weekly/weekly-2026-07-10.md) | [live](https://radarai.top/updates/weekly-2026-07-10) |
+| 2026-07-10 08:00 | `brief` | 7月10日 AI 速报 · 第 463 期 | [brief-20260710-0800](briefs/brief-20260710-0800.md) | [live](https://radarai.top/updates/brief-20260710-0800) |
+| 2026-07-10 00:00 | `brief` | 7月10日 AI 速报 · 第 462 期 | [brief-20260710-0000](briefs/brief-20260710-0000.md) | [live](https://radarai.top/updates/brief-20260710-0000) |
+| 2026-07-09 16:00 | `brief` | 7月9日 AI 速报 · 第 461 期 | [brief-20260709-1600](briefs/brief-20260709-1600.md) | [live](https://radarai.top/updates/brief-20260709-1600) |
+| 2026-07-09 08:00 | `brief` | 7月9日 AI 速报 · 第 460 期 | [brief-20260709-0800](briefs/brief-20260709-0800.md) | [live](https://radarai.top/updates/brief-20260709-0800) |
+| 2026-07-09 00:00 | `brief` | 7月9日 AI 速报 · 第 459 期 | [brief-20260709-0000](briefs/brief-20260709-0000.md) | [live](https://radarai.top/updates/brief-20260709-0000) |
+| 2026-07-08 16:00 | `brief` | 7月8日 AI 速报 · 第 458 期 | [brief-20260708-1600](briefs/brief-20260708-1600.md) | [live](https://radarai.top/updates/brief-20260708-1600) |
+| 2026-07-08 08:00 | `brief` | 7月8日 AI 速报 · 第 457 期 | [brief-20260708-0800](briefs/brief-20260708-0800.md) | [live](https://radarai.top/updates/brief-20260708-0800) |
+| 2026-07-08 00:00 | `brief` | 7月8日 AI 速报 · 第 456 期 | [brief-20260708-0000](briefs/brief-20260708-0000.md) | [live](https://radarai.top/updates/brief-20260708-0000) |
+| 2026-07-07 16:00 | `brief` | 7月7日 AI 速报 · 第 455 期 | [brief-20260707-1600](briefs/brief-20260707-1600.md) | [live](https://radarai.top/updates/brief-20260707-1600) |
+| 2026-07-07 08:00 | `brief` | 7月7日 AI 速报 · 第 454 期 | [brief-20260707-0800](briefs/brief-20260707-0800.md) | [live](https://radarai.top/updates/brief-20260707-0800) |
+| 2026-07-07 00:00 | `brief` | 7月7日 AI 速报 · 第 453 期 | [brief-20260707-0000](briefs/brief-20260707-0000.md) | [live](https://radarai.top/updates/brief-20260707-0000) |
+| 2026-07-06 16:00 | `brief` | 7月6日 AI 速报 · 第 452 期 | [brief-20260706-1600](briefs/brief-20260706-1600.md) | [live](https://radarai.top/updates/brief-20260706-1600) |
+| 2026-07-06 08:00 | `brief` | 7月6日 AI 速报 · 第 451 期 | [brief-20260706-0800](briefs/brief-20260706-0800.md) | [live](https://radarai.top/updates/brief-20260706-0800) |
+| 2026-07-06 00:00 | `brief` | 7月6日 AI 速报 · 第 450 期 | [brief-20260706-0000](briefs/brief-20260706-0000.md) | [live](https://radarai.top/updates/brief-20260706-0000) |
+| 2026-07-05 16:00 | `brief` | 7月5日 AI 速报 · 第 449 期 | [brief-20260705-1600](briefs/brief-20260705-1600.md) | [live](https://radarai.top/updates/brief-20260705-1600) |
+| 2026-07-05 08:00 | `brief` | 7月5日 AI 速报 · 第 448 期 | [brief-20260705-0800](briefs/brief-20260705-0800.md) | [live](https://radarai.top/updates/brief-20260705-0800) |
+| 2026-07-05 00:00 | `brief` | 7月5日 AI 速报 · 第 447 期 | [brief-20260705-0000](briefs/brief-20260705-0000.md) | [live](https://radarai.top/updates/brief-20260705-0000) |
+| 2026-07-04 16:00 | `brief` | 7月4日 AI 速报 · 第 446 期 | [brief-20260704-1600](briefs/brief-20260704-1600.md) | [live](https://radarai.top/updates/brief-20260704-1600) |
+| 2026-07-04 08:00 | `brief` | 7月4日 AI 速报 · 第 445 期 | [brief-20260704-0800](briefs/brief-20260704-0800.md) | [live](https://radarai.top/updates/brief-20260704-0800) |
+| 2026-07-04 00:00 | `brief` | 7月4日 AI 速报 · 第 444 期 | [brief-20260704-0000](briefs/brief-20260704-0000.md) | [live](https://radarai.top/updates/brief-20260704-0000) |
+| 2026-07-03 16:00 | `brief` | 7月3日 AI 速报 · 第 443 期 | [brief-20260703-1600](briefs/brief-20260703-1600.md) | [live](https://radarai.top/updates/brief-20260703-1600) |
+| 2026-07-03 09:00 | `weekly_report` | 每周 AI 热点 · 2026-07-03 | [weekly-2026-07-03](weekly/weekly-2026-07-03.md) | [live](https://radarai.top/updates/weekly-2026-07-03) |
+| 2026-07-03 08:00 | `brief` | 7月3日 AI 速报 · 第 442 期 | [brief-20260703-0800](briefs/brief-20260703-0800.md) | [live](https://radarai.top/updates/brief-20260703-0800) |
+| 2026-07-03 00:00 | `brief` | 7月3日 AI 速报 · 第 441 期 | [brief-20260703-0000](briefs/brief-20260703-0000.md) | [live](https://radarai.top/updates/brief-20260703-0000) |
+| 2026-07-02 16:00 | `brief` | 7月2日 AI 速报 · 第 440 期 | [brief-20260702-1600](briefs/brief-20260702-1600.md) | [live](https://radarai.top/updates/brief-20260702-1600) |
+| 2026-07-02 08:00 | `brief` | 7月2日 AI 速报 · 第 439 期 | [brief-20260702-0800](briefs/brief-20260702-0800.md) | [live](https://radarai.top/updates/brief-20260702-0800) |
+| 2026-07-02 00:00 | `brief` | 7月2日 AI 速报 · 第 438 期 | [brief-20260702-0000](briefs/brief-20260702-0000.md) | [live](https://radarai.top/updates/brief-20260702-0000) |
+| 2026-07-01 16:00 | `brief` | 7月1日 AI 速报 · 第 437 期 | [brief-20260701-1600](briefs/brief-20260701-1600.md) | [live](https://radarai.top/updates/brief-20260701-1600) |
+| 2026-07-01 08:00 | `brief` | 7月1日 AI 速报 · 第 436 期 | [brief-20260701-0800](briefs/brief-20260701-0800.md) | [live](https://radarai.top/updates/brief-20260701-0800) |
+| 2026-07-01 00:00 | `brief` | 7月1日 AI 速报 · 第 435 期 | [brief-20260701-0000](briefs/brief-20260701-0000.md) | [live](https://radarai.top/updates/brief-20260701-0000) |
+| 2026-06-30 16:00 | `brief` | 6月30日 AI 速报 · 第 434 期 | [brief-20260630-1600](briefs/brief-20260630-1600.md) | [live](https://radarai.top/updates/brief-20260630-1600) |
+| 2026-06-30 08:00 | `brief` | 6月30日 AI 速报 · 第 433 期 | [brief-20260630-0800](briefs/brief-20260630-0800.md) | [live](https://radarai.top/updates/brief-20260630-0800) |
+| 2026-06-30 00:00 | `brief` | 6月30日 AI 速报 · 第 432 期 | [brief-20260630-0000](briefs/brief-20260630-0000.md) | [live](https://radarai.top/updates/brief-20260630-0000) |
+| 2026-06-29 16:00 | `brief` | 6月29日 AI 速报 · 第 431 期 | [brief-20260629-1600](briefs/brief-20260629-1600.md) | [live](https://radarai.top/updates/brief-20260629-1600) |
+| 2026-06-29 08:00 | `brief` | 6月29日 AI 速报 · 第 430 期 | [brief-20260629-0800](briefs/brief-20260629-0800.md) | [live](https://radarai.top/updates/brief-20260629-0800) |
+| 2026-06-29 00:00 | `brief` | 6月29日 AI 速报 · 第 429 期 | [brief-20260629-0000](briefs/brief-20260629-0000.md) | [live](https://radarai.top/updates/brief-20260629-0000) |
+| 2026-06-28 16:00 | `brief` | 6月28日 AI 速报 · 第 428 期 | [brief-20260628-1600](briefs/brief-20260628-1600.md) | [live](https://radarai.top/updates/brief-20260628-1600) |
+| 2026-06-28 08:00 | `brief` | 6月28日 AI 速报 · 第 427 期 | [brief-20260628-0800](briefs/brief-20260628-0800.md) | [live](https://radarai.top/updates/brief-20260628-0800) |
+| 2026-06-28 00:00 | `brief` | 6月28日 AI 速报 · 第 426 期 | [brief-20260628-0000](briefs/brief-20260628-0000.md) | [live](https://radarai.top/updates/brief-20260628-0000) |
+| 2026-06-27 16:00 | `brief` | 6月27日 AI 速报 · 第 425 期 | [brief-20260627-1600](briefs/brief-20260627-1600.md) | [live](https://radarai.top/updates/brief-20260627-1600) |
+| 2026-06-27 08:00 | `brief` | 6月27日 AI 速报 · 第 424 期 | [brief-20260627-0800](briefs/brief-20260627-0800.md) | [live](https://radarai.top/updates/brief-20260627-0800) |
+| 2026-06-27 00:00 | `brief` | 6月27日 AI 速报 · 第 423 期 | [brief-20260627-0000](briefs/brief-20260627-0000.md) | [live](https://radarai.top/updates/brief-20260627-0000) |
+| 2026-06-26 16:00 | `brief` | 6月26日 AI 速报 · 第 422 期 | [brief-20260626-1600](briefs/brief-20260626-1600.md) | [live](https://radarai.top/updates/brief-20260626-1600) |
+| 2026-06-26 09:00 | `weekly_report` | 每周 AI 热点 · 2026-06-26 | [weekly-2026-06-26](weekly/weekly-2026-06-26.md) | [live](https://radarai.top/updates/weekly-2026-06-26) |
+| 2026-06-26 08:00 | `brief` | 6月26日 AI 速报 · 第 421 期 | [brief-20260626-0800](briefs/brief-20260626-0800.md) | [live](https://radarai.top/updates/brief-20260626-0800) |
+| 2026-06-26 00:00 | `brief` | 6月26日 AI 速报 · 第 420 期 | [brief-20260626-0000](briefs/brief-20260626-0000.md) | [live](https://radarai.top/updates/brief-20260626-0000) |
+| 2026-06-25 16:00 | `brief` | 6月25日 AI 速报 · 第 419 期 | [brief-20260625-1600](briefs/brief-20260625-1600.md) | [live](https://radarai.top/updates/brief-20260625-1600) |
+| 2026-06-25 08:00 | `brief` | 6月25日 AI 速报 · 第 418 期 | [brief-20260625-0800](briefs/brief-20260625-0800.md) | [live](https://radarai.top/updates/brief-20260625-0800) |
+| 2026-06-25 00:00 | `brief` | 6月25日 AI 速报 · 第 417 期 | [brief-20260625-0000](briefs/brief-20260625-0000.md) | [live](https://radarai.top/updates/brief-20260625-0000) |
+| 2026-06-24 16:00 | `brief` | 6月24日 AI 速报 · 第 416 期 | [brief-20260624-1600](briefs/brief-20260624-1600.md) | [live](https://radarai.top/updates/brief-20260624-1600) |
+| 2026-06-24 08:00 | `brief` | 6月24日 AI 速报 · 第 415 期 | [brief-20260624-0800](briefs/brief-20260624-0800.md) | [live](https://radarai.top/updates/brief-20260624-0800) |
+| 2026-06-24 00:00 | `brief` | 6月24日 AI 速报 · 第 414 期 | [brief-20260624-0000](briefs/brief-20260624-0000.md) | [live](https://radarai.top/updates/brief-20260624-0000) |
+| 2026-06-23 16:00 | `brief` | 6月23日 AI 速报 · 第 413 期 | [brief-20260623-1600](briefs/brief-20260623-1600.md) | [live](https://radarai.top/updates/brief-20260623-1600) |
+| 2026-06-23 08:00 | `brief` | 6月23日 AI 速报 · 第 412 期 | [brief-20260623-0800](briefs/brief-20260623-0800.md) | [live](https://radarai.top/updates/brief-20260623-0800) |
+| 2026-06-23 00:00 | `brief` | 6月23日 AI 速报 · 第 411 期 | [brief-20260623-0000](briefs/brief-20260623-0000.md) | [live](https://radarai.top/updates/brief-20260623-0000) |
+| 2026-06-22 16:00 | `brief` | 6月22日 AI 速报 · 第 410 期 | [brief-20260622-1600](briefs/brief-20260622-1600.md) | [live](https://radarai.top/updates/brief-20260622-1600) |
+| 2026-06-22 08:00 | `brief` | 6月22日 AI 速报 · 第 409 期 | [brief-20260622-0800](briefs/brief-20260622-0800.md) | [live](https://radarai.top/updates/brief-20260622-0800) |
+| 2026-06-22 00:00 | `brief` | 6月22日 AI 速报 · 第 408 期 | [brief-20260622-0000](briefs/brief-20260622-0000.md) | [live](https://radarai.top/updates/brief-20260622-0000) |
+| 2026-06-21 16:00 | `brief` | 6月21日 AI 速报 · 第 407 期 | [brief-20260621-1600](briefs/brief-20260621-1600.md) | [live](https://radarai.top/updates/brief-20260621-1600) |
+| 2026-06-21 08:00 | `brief` | 6月21日 AI 速报 · 第 406 期 | [brief-20260621-0800](briefs/brief-20260621-0800.md) | [live](https://radarai.top/updates/brief-20260621-0800) |
+| 2026-06-21 00:00 | `brief` | 6月21日 AI 速报 · 第 405 期 | [brief-20260621-0000](briefs/brief-20260621-0000.md) | [live](https://radarai.top/updates/brief-20260621-0000) |
+| 2026-06-20 16:00 | `brief` | 6月20日 AI 速报 · 第 404 期 | [brief-20260620-1600](briefs/brief-20260620-1600.md) | [live](https://radarai.top/updates/brief-20260620-1600) |
+| 2026-06-20 08:00 | `brief` | 6月20日 AI 速报 · 第 403 期 | [brief-20260620-0800](briefs/brief-20260620-0800.md) | [live](https://radarai.top/updates/brief-20260620-0800) |
+| 2026-06-20 00:00 | `brief` | 6月20日 AI 速报 · 第 402 期 | [brief-20260620-0000](briefs/brief-20260620-0000.md) | [live](https://radarai.top/updates/brief-20260620-0000) |
+| 2026-06-19 16:00 | `brief` | 6月19日 AI 速报 · 第 401 期 | [brief-20260619-1600](briefs/brief-20260619-1600.md) | [live](https://radarai.top/updates/brief-20260619-1600) |
+| 2026-06-19 09:00 | `weekly_report` | 每周 AI 热点 · 2026-06-19 | [weekly-2026-06-19](weekly/weekly-2026-06-19.md) | [live](https://radarai.top/updates/weekly-2026-06-19) |
+| 2026-06-19 08:00 | `brief` | 6月19日 AI 速报 · 第 400 期 | [brief-20260619-0800](briefs/brief-20260619-0800.md) | [live](https://radarai.top/updates/brief-20260619-0800) |
+| 2026-06-19 00:00 | `brief` | 6月19日 AI 速报 · 第 399 期 | [brief-20260619-0000](briefs/brief-20260619-0000.md) | [live](https://radarai.top/updates/brief-20260619-0000) |
+| 2026-06-18 16:00 | `brief` | 6月18日 AI 速报 · 第 398 期 | [brief-20260618-1600](briefs/brief-20260618-1600.md) | [live](https://radarai.top/updates/brief-20260618-1600) |
+| 2026-06-18 08:00 | `brief` | 6月18日 AI 速报 · 第 397 期 | [brief-20260618-0800](briefs/brief-20260618-0800.md) | [live](https://radarai.top/updates/brief-20260618-0800) |
+| 2026-06-18 00:00 | `brief` | 6月18日 AI 速报 · 第 396 期 | [brief-20260618-0000](briefs/brief-20260618-0000.md) | [live](https://radarai.top/updates/brief-20260618-0000) |
+| 2026-06-17 16:00 | `brief` | 6月17日 AI 速报 · 第 395 期 | [brief-20260617-1600](briefs/brief-20260617-1600.md) | [live](https://radarai.top/updates/brief-20260617-1600) |
+| 2026-06-17 08:00 | `brief` | 6月17日 AI 速报 · 第 394 期 | [brief-20260617-0800](briefs/brief-20260617-0800.md) | [live](https://radarai.top/updates/brief-20260617-0800) |
+| 2026-06-17 00:00 | `brief` | 6月17日 AI 速报 · 第 393 期 | [brief-20260617-0000](briefs/brief-20260617-0000.md) | [live](https://radarai.top/updates/brief-20260617-0000) |
+| 2026-06-16 16:00 | `brief` | 6月16日 AI 速报 · 第 392 期 | [brief-20260616-1600](briefs/brief-20260616-1600.md) | [live](https://radarai.top/updates/brief-20260616-1600) |
+| 2026-06-16 08:00 | `brief` | 6月16日 AI 速报 · 第 391 期 | [brief-20260616-0800](briefs/brief-20260616-0800.md) | [live](https://radarai.top/updates/brief-20260616-0800) |
+| 2026-06-16 00:00 | `brief` | 6月16日 AI 速报 · 第 390 期 | [brief-20260616-0000](briefs/brief-20260616-0000.md) | [live](https://radarai.top/updates/brief-20260616-0000) |
+| 2026-06-15 16:00 | `brief` | 6月15日 AI 速报 · 第 389 期 | [brief-20260615-1600](briefs/brief-20260615-1600.md) | [live](https://radarai.top/updates/brief-20260615-1600) |
+| 2026-06-15 08:00 | `brief` | 6月15日 AI 速报 · 第 388 期 | [brief-20260615-0800](briefs/brief-20260615-0800.md) | [live](https://radarai.top/updates/brief-20260615-0800) |
+| 2026-06-15 00:00 | `brief` | 6月15日 AI 速报 · 第 387 期 | [brief-20260615-0000](briefs/brief-20260615-0000.md) | [live](https://radarai.top/updates/brief-20260615-0000) |
+| 2026-06-14 16:00 | `brief` | 6月14日 AI 速报 · 第 386 期 | [brief-20260614-1600](briefs/brief-20260614-1600.md) | [live](https://radarai.top/updates/brief-20260614-1600) |
+| 2026-06-14 08:00 | `brief` | 6月14日 AI 速报 · 第 385 期 | [brief-20260614-0800](briefs/brief-20260614-0800.md) | [live](https://radarai.top/updates/brief-20260614-0800) |
+| 2026-06-14 00:00 | `brief` | 6月14日 AI 速报 · 第 384 期 | [brief-20260614-0000](briefs/brief-20260614-0000.md) | [live](https://radarai.top/updates/brief-20260614-0000) |
+| 2026-06-13 16:00 | `brief` | 6月13日 AI 速报 · 第 383 期 | [brief-20260613-1600](briefs/brief-20260613-1600.md) | [live](https://radarai.top/updates/brief-20260613-1600) |
+| 2026-06-13 08:00 | `brief` | 6月13日 AI 速报 · 第 382 期 | [brief-20260613-0800](briefs/brief-20260613-0800.md) | [live](https://radarai.top/updates/brief-20260613-0800) |
+| 2026-06-13 00:00 | `brief` | 6月13日 AI 速报 · 第 381 期 | [brief-20260613-0000](briefs/brief-20260613-0000.md) | [live](https://radarai.top/updates/brief-20260613-0000) |
+| 2026-06-12 16:00 | `brief` | 6月12日 AI 速报 · 第 380 期 | [brief-20260612-1600](briefs/brief-20260612-1600.md) | [live](https://radarai.top/updates/brief-20260612-1600) |
+| 2026-06-12 09:00 | `weekly_report` | 每周 AI 热点 · 2026-06-12 | [weekly-2026-06-12](weekly/weekly-2026-06-12.md) | [live](https://radarai.top/updates/weekly-2026-06-12) |
+| 2026-06-12 08:00 | `brief` | 6月12日 AI 速报 · 第 379 期 | [brief-20260612-0800](briefs/brief-20260612-0800.md) | [live](https://radarai.top/updates/brief-20260612-0800) |
+| 2026-06-12 00:00 | `brief` | 6月12日 AI 速报 · 第 378 期 | [brief-20260612-0000](briefs/brief-20260612-0000.md) | [live](https://radarai.top/updates/brief-20260612-0000) |
+| 2026-06-11 16:00 | `brief` | 6月11日 AI 速报 · 第 377 期 | [brief-20260611-1600](briefs/brief-20260611-1600.md) | [live](https://radarai.top/updates/brief-20260611-1600) |
+| 2026-06-11 08:00 | `brief` | 6月11日 AI 速报 · 第 376 期 | [brief-20260611-0800](briefs/brief-20260611-0800.md) | [live](https://radarai.top/updates/brief-20260611-0800) |
+| 2026-06-11 00:00 | `brief` | 6月11日 AI 速报 · 第 375 期 | [brief-20260611-0000](briefs/brief-20260611-0000.md) | [live](https://radarai.top/updates/brief-20260611-0000) |
+| 2026-06-10 16:00 | `brief` | 6月10日 AI 速报 · 第 374 期 | [brief-20260610-1600](briefs/brief-20260610-1600.md) | [live](https://radarai.top/updates/brief-20260610-1600) |
+| 2026-06-10 08:00 | `brief` | 6月10日 AI 速报 · 第 373 期 | [brief-20260610-0800](briefs/brief-20260610-0800.md) | [live](https://radarai.top/updates/brief-20260610-0800) |
+| 2026-06-10 00:00 | `brief` | 6月10日 AI 速报 · 第 372 期 | [brief-20260610-0000](briefs/brief-20260610-0000.md) | [live](https://radarai.top/updates/brief-20260610-0000) |
+| 2026-06-09 16:00 | `brief` | 6月9日 AI 速报 · 第 371 期 | [brief-20260609-1600](briefs/brief-20260609-1600.md) | [live](https://radarai.top/updates/brief-20260609-1600) |
+| 2026-06-09 08:00 | `brief` | 6月9日 AI 速报 · 第 370 期 | [brief-20260609-0800](briefs/brief-20260609-0800.md) | [live](https://radarai.top/updates/brief-20260609-0800) |
+| 2026-06-09 00:00 | `brief` | 6月9日 AI 速报 · 第 369 期 | [brief-20260609-0000](briefs/brief-20260609-0000.md) | [live](https://radarai.top/updates/brief-20260609-0000) |
+| 2026-06-08 16:00 | `brief` | 6月8日 AI 速报 · 第 368 期 | [brief-20260608-1600](briefs/brief-20260608-1600.md) | [live](https://radarai.top/updates/brief-20260608-1600) |
+| 2026-06-08 08:00 | `brief` | 6月8日 AI 速报 · 第 367 期 | [brief-20260608-0800](briefs/brief-20260608-0800.md) | [live](https://radarai.top/updates/brief-20260608-0800) |
+| 2026-06-08 00:00 | `brief` | 6月8日 AI 速报 · 第 366 期 | [brief-20260608-0000](briefs/brief-20260608-0000.md) | [live](https://radarai.top/updates/brief-20260608-0000) |
+| 2026-06-07 16:00 | `brief` | 6月7日 AI 速报 · 第 365 期 | [brief-20260607-1600](briefs/brief-20260607-1600.md) | [live](https://radarai.top/updates/brief-20260607-1600) |
+| 2026-06-07 08:00 | `brief` | 6月7日 AI 速报 · 第 364 期 | [brief-20260607-0800](briefs/brief-20260607-0800.md) | [live](https://radarai.top/updates/brief-20260607-0800) |
+| 2026-06-07 00:00 | `brief` | 6月7日 AI 速报 · 第 363 期 | [brief-20260607-0000](briefs/brief-20260607-0000.md) | [live](https://radarai.top/updates/brief-20260607-0000) |
+| 2026-06-06 16:00 | `brief` | 6月6日 AI 速报 · 第 362 期 | [brief-20260606-1600](briefs/brief-20260606-1600.md) | [live](https://radarai.top/updates/brief-20260606-1600) |
+| 2026-06-06 08:00 | `brief` | 6月6日 AI 速报 · 第 361 期 | [brief-20260606-0800](briefs/brief-20260606-0800.md) | [live](https://radarai.top/updates/brief-20260606-0800) |
+| 2026-06-06 00:00 | `brief` | 6月6日 AI 速报 · 第 360 期 | [brief-20260606-0000](briefs/brief-20260606-0000.md) | [live](https://radarai.top/updates/brief-20260606-0000) |
+| 2026-06-05 16:00 | `brief` | 6月5日 AI 速报 · 第 359 期 | [brief-20260605-1600](briefs/brief-20260605-1600.md) | [live](https://radarai.top/updates/brief-20260605-1600) |
+| 2026-06-05 09:00 | `weekly_report` | 每周 AI 热点 · 2026-06-05 | [weekly-2026-06-05](weekly/weekly-2026-06-05.md) | [live](https://radarai.top/updates/weekly-2026-06-05) |
+| 2026-06-05 08:00 | `brief` | 6月5日 AI 速报 · 第 358 期 | [brief-20260605-0800](briefs/brief-20260605-0800.md) | [live](https://radarai.top/updates/brief-20260605-0800) |
+| 2026-06-05 00:00 | `brief` | 6月5日 AI 速报 · 第 357 期 | [brief-20260605-0000](briefs/brief-20260605-0000.md) | [live](https://radarai.top/updates/brief-20260605-0000) |
+| 2026-06-04 16:00 | `brief` | 6月4日 AI 速报 · 第 356 期 | [brief-20260604-1600](briefs/brief-20260604-1600.md) | [live](https://radarai.top/updates/brief-20260604-1600) |
+| 2026-06-04 08:00 | `brief` | 6月4日 AI 速报 · 第 355 期 | [brief-20260604-0800](briefs/brief-20260604-0800.md) | [live](https://radarai.top/updates/brief-20260604-0800) |
+| 2026-06-04 00:00 | `brief` | 6月4日 AI 速报 · 第 354 期 | [brief-20260604-0000](briefs/brief-20260604-0000.md) | [live](https://radarai.top/updates/brief-20260604-0000) |
+| 2026-06-03 16:00 | `brief` | 6月3日 AI 速报 · 第 353 期 | [brief-20260603-1600](briefs/brief-20260603-1600.md) | [live](https://radarai.top/updates/brief-20260603-1600) |
+| 2026-06-03 08:00 | `brief` | 6月3日 AI 速报 · 第 352 期 | [brief-20260603-0800](briefs/brief-20260603-0800.md) | [live](https://radarai.top/updates/brief-20260603-0800) |
+| 2026-06-03 00:00 | `brief` | 6月3日 AI 速报 · 第 351 期 | [brief-20260603-0000](briefs/brief-20260603-0000.md) | [live](https://radarai.top/updates/brief-20260603-0000) |
 | 2026-06-02 16:00 | `brief` | 6月2日 AI 速报 · 第 350 期 | [brief-20260602-1600](briefs/brief-20260602-1600.md) | [live](https://radarai.top/updates/brief-20260602-1600) |
 | 2026-06-02 08:00 | `brief` | 6月2日 AI 速报 · 第 349 期 | [brief-20260602-0800](briefs/brief-20260602-0800.md) | [live](https://radarai.top/updates/brief-20260602-0800) |
 | 2026-06-02 00:00 | `brief` | 6月2日 AI 速报 · 第 348 期 | [brief-20260602-0000](briefs/brief-20260602-0000.md) | [live](https://radarai.top/updates/brief-20260602-0000) |

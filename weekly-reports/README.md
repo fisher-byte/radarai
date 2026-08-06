@@ -22,6 +22,15 @@ English-first weekly reports mirrored from RadarAI. These files are copied from 
 | weekly-2026-05-15 | [en/weekly-2026-05-15.md](en/weekly-2026-05-15.md) | [zh-CN/weekly-2026-05-15.md](zh-CN/weekly-2026-05-15.md) |
 | weekly-2026-05-22 | [en/weekly-2026-05-22.md](en/weekly-2026-05-22.md) | [zh-CN/weekly-2026-05-22.md](zh-CN/weekly-2026-05-22.md) |
 | weekly-2026-05-29 | [en/weekly-2026-05-29.md](en/weekly-2026-05-29.md) | [zh-CN/weekly-2026-05-29.md](zh-CN/weekly-2026-05-29.md) |
+| weekly-2026-06-05 | [en/weekly-2026-06-05.md](en/weekly-2026-06-05.md) | [zh-CN/weekly-2026-06-05.md](zh-CN/weekly-2026-06-05.md) |
+| weekly-2026-06-12 | [en/weekly-2026-06-12.md](en/weekly-2026-06-12.md) | [zh-CN/weekly-2026-06-12.md](zh-CN/weekly-2026-06-12.md) |
+| weekly-2026-06-19 | [en/weekly-2026-06-19.md](en/weekly-2026-06-19.md) | [zh-CN/weekly-2026-06-19.md](zh-CN/weekly-2026-06-19.md) |
+| weekly-2026-06-26 | [en/weekly-2026-06-26.md](en/weekly-2026-06-26.md) | [zh-CN/weekly-2026-06-26.md](zh-CN/weekly-2026-06-26.md) |
+| weekly-2026-07-03 | [en/weekly-2026-07-03.md](en/weekly-2026-07-03.md) | [zh-CN/weekly-2026-07-03.md](zh-CN/weekly-2026-07-03.md) |
+| weekly-2026-07-10 | [en/weekly-2026-07-10.md](en/weekly-2026-07-10.md) | [zh-CN/weekly-2026-07-10.md](zh-CN/weekly-2026-07-10.md) |
+| weekly-2026-07-17 | [en/weekly-2026-07-17.md](en/weekly-2026-07-17.md) | [zh-CN/weekly-2026-07-17.md](zh-CN/weekly-2026-07-17.md) |
+| weekly-2026-07-24 | [en/weekly-2026-07-24.md](en/weekly-2026-07-24.md) | [zh-CN/weekly-2026-07-24.md](zh-CN/weekly-2026-07-24.md) |
+| weekly-2026-07-31 | [en/weekly-2026-07-31.md](en/weekly-2026-07-31.md) | [zh-CN/weekly-2026-07-31.md](zh-CN/weekly-2026-07-31.md) |
 
 ## Notes
 
